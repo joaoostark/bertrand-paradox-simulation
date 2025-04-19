@@ -44,13 +44,13 @@ Java implementations are located in the `Java/` directory.
 ## 📷 Sample Graphs
 
 ### Variation 1 – Random Endpoints
-![Variation 1](images/variation1_plot.png)
+![Variation 1](Images/variation1_plot.png)
 
 ### Variation 2 – Midpoint on Radius
-![Variation 2](images/variation2_plot.png)
+![Variation 2](Images/variation2_plot.png)
 
 ### Variation 3 – Random Midpoint Inside Circle
-![Variation 3](images/variation3_plot.png)
+![Variation 3](Images/variation3_plot.png)
 
 > You can generate these plots automatically by running the Python scripts.
 
