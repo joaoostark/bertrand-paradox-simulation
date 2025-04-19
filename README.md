@@ -97,7 +97,7 @@ Feel free to:
 
 ## 🧑‍💻 Author
 
-Developed by [João Victor Ferreira]  
+Developed by João Victor Ferreira  
 Projeto educacional de simulação computacional para entendimento do Paradoxo de Bertrand.
 
 ---
